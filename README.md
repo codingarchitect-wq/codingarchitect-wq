@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @codingarchitect-wq --- Software Engineer & Architect.
 - 👀 I’m interested in --- Software Architecture and Development.
-- 🌱 I’m currently learning --- Rust, GoLang and writing a blog.
 - 💞️ I’m looking to collaborate on --- challenging problems, ideally on software that improves people lives.
 - 📫 How to reach me --- www.codingarchitect-wq.com
 
